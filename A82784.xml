@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure orders of great consequence of the Lords and Commons assembled in Parliament. 1. Concerning the speedy leavying and collecting of the moneyes upon the weekely assessements, or otherwise. 2. Concerning the demolishing of all altars, or tables of stone, within every church or chapell, and also for the removall and taking away of all tapers, candlesticks, and basons from the communion table, and to remove the said table from the East-end of the church. 3. For the more strict observance of the monethly fast, according to a late ordinance of the Lords and Commons for that purpose likewise an order for a strict enquiry throughout every parish, of all papists or delinquents, who have any goods, debts, chattels, personall estates, lands, tenements, or otherwise, with their respective parishes, and have not contributed according to the propositions. Ordered by the Lords and Commons assembled in Parliament, that these orders shall be forthwith printed and published. John Browne Cler. Parliamento.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82784</idno>
+            <idno type="STC">Wing E1542</idno>
+            <idno type="STC">Thomason E102_5</idno>
+            <idno type="STC">ESTC R21448</idno>
+            <idno type="EEBO-CITATION">99871427</idno>
+            <idno type="PROQUEST">99871427</idno>
+            <idno type="VID">155900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155900)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E102[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure orders of great consequence of the Lords and Commons assembled in Parliament. 1. Concerning the speedy leavying and collecting of the moneyes upon the weekely assessements, or otherwise. 2. Concerning the demolishing of all altars, or tables of stone, within every church or chapell, and also for the removall and taking away of all tapers, candlesticks, and basons from the communion table, and to remove the said table from the East-end of the church. 3. For the more strict observance of the monethly fast, according to a late ordinance of the Lords and Commons for that purpose likewise an order for a strict enquiry throughout every parish, of all papists or delinquents, who have any goods, debts, chattels, personall estates, lands, tenements, or otherwise, with their respective parishes, and have not contributed according to the propositions. Ordered by the Lords and Commons assembled in Parliament, that these orders shall be forthwith printed and published. John Browne Cler. Parliamento.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>May 17. London Printed for R. B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Ceremonies and practices --  Early works to 1800.</term>
+               <term>Taxation --  Law and legislation --  England.</term>
+               <term>Church furniture --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155900:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>
+               <hi>FO<g ref="char:V">Ʋ</g>RE</hi> ORDERS Of great Conſequence Of the LORDS and Commons Aſſembled in PARLIAMENT.</p>
+            <list>
+               <item>1. Concerning the ſpeedy le<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vying and collecting of the Moneyes upon the Weekely Aſſeſſements, or otherwiſe.</item>
+               <item>2. Concerning the demoliſhing of all Altars, or Tables of Stone, within every Church or Chap<g ref="char:EOLhyphen"/>pell, and alſo for the Removall and taking away of all Tapers, Candleſticks, and Baſons from the Communion Table, and to remove the ſaid Table from the Eaſt-End of the Church.</item>
+               <item>3. For the more ſtrict Obſervance of the Moneth<g ref="char:EOLhyphen"/>ly Faſt, according to a late Ordinance of the Lords and Commons for that purpoſe</item>
+               <item>Likewiſe an Order for a ſtrict enquiry throughout every Pariſh, of all Papiſts or Delinquents, who have any goods, debts, chattels, perſonall eſtates, lands, tenements, or otherwiſe, within their reſpe<g ref="char:EOLhyphen"/>ctive Pariſhes, and have not contributed according to the propoſitions.</item>
+            </list>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that theſe ORDERS ſhall be forthwith Printed and publiſhed.</p>
+                        <closer>
+                           <signed>John Browne Cler. Parliamento.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>May 17. London Printed for <hi>R. B.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:155900:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:155900:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>An Order of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, for the ſpeedy levying of the Monies upon the weekely Aſſeſſements and otherwiſe.</head>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii,
+10. Maii. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is now ordered by the Lords and Commons in this preſent Parliament aſſembled, that the ſeverall perſons ap<g ref="char:EOLhyphen"/>pointed by the Ordinance of the third of this inſtant <hi>May,</hi> and inſtructed for the bringing out of divers counties therein mentioned perfect, and ſpeedy accounts of the weekely Aſſeſſement towards the maintenance, of the Army, doe alſo uſe their beſt endeavours for the diſcovery and finding out all other monies, levy<g ref="char:EOLhyphen"/>ed, or to be levyed and collected by any Act of Parliament, or Ordinance either by way of Subſidy, or of Loan, or con<g ref="char:EOLhyphen"/>tribution
+<pb facs="tcp:155900:3"/>
+               <!-- PDF PAGE 93 -->
+for <hi>England</hi> or <hi>Ireland,</hi> which have not been brought into the Treaſu<g ref="char:EOLhyphen"/>rers hands appointed by ſuch Acts or Ordinances to receive the ſame; And particularly ſuch Monies as are yet un<g ref="char:EOLhyphen"/>collected, or not brought in upon the Act for ſpeédy contribution towards the re<g ref="char:EOLhyphen"/>liefe of <hi>Ireland:</hi> And an Ordinance of the Lords and Commons of the Thir<g ref="char:EOLhyphen"/>tieth of <hi>Ianuary</hi> laſt, for a new Loan and contribution for the ſame purpoſe: And that they receive certaine Infor<g ref="char:EOLhyphen"/>mation of ſuch Monie, either from the Commiſsioners, Sheriffs, collectors, or other perſons imployed therein, doe take courſe that the ſame be duly and ſpee<g ref="char:EOLhyphen"/>dily leavyed and payed to the reſpective Treaſurers or Receivers aforeſaid, and have power to ſend for the collectors and Sub-collectors within their ſeveral counties for the ſpeédy effecting therof.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:155900:3"/>
+            <!-- PDF PAGE 93 -->
+            <head>At the Committee for the Demo<g ref="char:EOLhyphen"/>liſhing of Monuments of Superſtition or Idolatry.</head>
+            <p>BY vertue of an Order of the Houſe of Commons, and agreeable to a Bill paſſed by both Houſes of Parliament, for ſuppreſſing of divers Innovations in Churches and Chap<g ref="char:EOLhyphen"/>pels; This Committee doth require you and every of you to take away, and de<g ref="char:EOLhyphen"/>moliſh every Altar or Table of ſtone within your Church or Chappel, and to remove the Communion Table from the Eaſt end of the ſaid Church or Chappel, and to place the ſame in ſome other convenient place of the body of the ſaid Church or Chappel; And to re<g ref="char:EOLhyphen"/>move and take away al Tapers, Can<g ref="char:EOLhyphen"/>dleſticks, and Baſons from the Com<g ref="char:EOLhyphen"/>munion-Table in the ſaid Church or Chappel; And to take away and de<g ref="char:EOLhyphen"/>moliſh
+<pb facs="tcp:155900:4"/>
+               <!-- PDF PAGE 94 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:155900:4"/>
+               <!-- PDF PAGE 94 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:155900:5"/>
+               <!-- PDF PAGE 95 -->
+all Crucifixes, Croſſes and all I<g ref="char:EOLhyphen"/>mages and Pictures, of any one, or more perſons of the Trinity, or of the Virgin <hi>Mary</hi> in your ſaid Church or Chappel.</p>
+            <p>And this Committeé doth further re<g ref="char:EOLhyphen"/>quire you to take downe and demoliſh all Crucifixes, Croſſes, Images, or Pictures of any one, or more perſons of the Trinity, or of the Virgin <hi>Mary,</hi> up<g ref="char:EOLhyphen"/>on the outſide of your ſaid Church or Chappel, or in any open place within your Pariſh, whereof you are to give an account to this Committee before the Twentieth day of this preſent Month.</p>
+            <trailer>To the Churchwardens of the Pariſh-Church or Chappel of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  and to every of them.</trailer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:155900:5"/>
+            <!-- PDF PAGE 95 -->
+            <p>WHereas the Lords and Commens in Par<g ref="char:EOLhyphen"/>liament, have made an Ordinance for the more ſtrict and ſolemne keeping of the dayes of publike Faſt, which are not by all perſons duly obſerved, even in theſe times of publike Calamity to the great diſhonour of God, and the contempt of the Authority of both Houſes of Parliament.</p>
+            <p>Now that more particular notice may be given unto all ſuch that ſhall offend herein, before any exemplary puniſhment be inflicted upon them, It is Ordered by the Commons now Aſſembled in Parliament, that all Conſtables (or their Depu<g ref="char:EOLhyphen"/>ties) ſhall the day before every publike Faſt, re<g ref="char:EOLhyphen"/>paire to every Houſe within their ſeverall and reſpective Liberties, and charge all perſons, that they ſtrictly obſerve the Faſt, according to the di<g ref="char:EOLhyphen"/>rections in the ſaid Ordinance.</p>
+            <p>And they ſhall upon the ſaid dayes of the pub<g ref="char:EOLhyphen"/>like Faſt, walke through their ſaid Liberties, di<g ref="char:EOLhyphen"/>ligently ſearching for, and taking notice of all perſons, who either by following the worke of their calling, or ſitting in Tabernes, Victualling, or Alehouſes, or any other wayes ſhall not duly obſerve the ſame, and they are hereby required, to returne the names of all ſuch perſons as they ſhall find ſo offending, as alſo ſuch Informations as they ſhall receive againſt any other perſons within their Liberties guilty of the leaſt offence
+<pb facs="tcp:155900:6"/>
+               <!-- PDF PAGE 96 -->
+unto the Committee for Examinations, that ſo they may be proceeded againſt for the contempt of the ſaid Ordinance; And all Conſtables are to obſerve theſe directions from time to time, ſo long as the ſaid Publike Faſt ſhall be kept, with<g ref="char:EOLhyphen"/>out expecting any further Order.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parlia. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>BY Vertue of an Ordinance made by both Houſes of Parliament, for the ſeizing and ſequeſtring of the Eſtates of Delinquents and Papiſts, in the ſaid Ordinance mentioned, theſe are to will &amp; command you and every of you, per<g ref="char:EOLhyphen"/>ſonally to be and appeare before us at  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  by  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  to declare and give notice to us of all ſuch Delinquents or Papiſts as are within your Pariſh, or that have any Goods, Debts, Chattells, perſonall Eſtates, Lands, Tenements, Rents, Revenues, or profits therein, or iſſuing from thence, and hereof faile you not, as you will Anſwer the Contrary at your perils.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
